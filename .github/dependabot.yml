@@ -27,6 +27,10 @@ updates:
   package-ecosystem: npm
   schedule:
     interval: daily
+- directory: edge/nodejs/access-origin-by-weight-rate/access-origin-by-weight-rate
+  package-ecosystem: npm
+  schedule:
+    interval: daily
 - directory: edge/nodejs/origin-by-customized-service/origin-by-customized-service
   package-ecosystem: npm
   schedule:
